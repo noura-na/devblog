@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Blog', // Required
+  title: 'devblog', // Required
   author: 'Noura Abdelhafez', // Required
   description: 'Data Scince and Artificial Intelligence Student',
   primaryColor: '#EFF377', // Required
