@@ -11,7 +11,7 @@ module.exports = {
     github: 'https://github.com/noura-na',
     //twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://www.linkedin.com/in/noura-abdelhafez/',
-  },
+  }//,
  // pathPrefix: '/devblog',
  // siteUrl: 'https://noura-na.github.io/devblog/',
 };
