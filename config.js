@@ -9,9 +9,9 @@ module.exports = {
   social: {
     website: 'noura-na.github.io/portfolio',
     github: 'https://github.com/noura-na',
-    //twitter: 'https://twitter.com/ryanafitzgerald',
+    twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://www.linkedin.com/in/noura-abdelhafez/',
-  }//,
- // pathPrefix: '/devblog',
- // siteUrl: 'https://noura-na.github.io/devblog/',
+  },
+ pathPrefix: '/devblog',
+ siteUrl: 'https://noura-na.github.io/devblog/',
 };
